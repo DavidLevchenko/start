@@ -29,3 +29,4 @@ console.log(isChecked || !isClose);
 let rt=5
 
 
+console.log(rt);
